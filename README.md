@@ -52,3 +52,6 @@ We redesigned it so a parry is only *perfect* if the attack lands within a short
 - More AI strategies and adaptive counter-patterns.
 - Additional perks and roguelike synergies.
 - Richer AI telemetry explaining **why** the AI makes each decision.
+
+## Web Link
+https://adaptive-ai-npc.vercel.app/
